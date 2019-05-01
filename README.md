@@ -20,7 +20,7 @@ zh_CN.mtr is a translation application file. (sudo cp zh_CN.mtr /usr/local/share
 
 **********************************************
 
-AzPainter for Linux ver 2.x 简体中文翻译 2017-2018
+AzPainter for Linux ver 2.x 简体中文翻译 2017-2019
 
 Translator 译者: SenlinOS (森林OS)
 
