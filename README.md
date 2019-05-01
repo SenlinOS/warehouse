@@ -1,5 +1,5 @@
 # AzPainter
-Copyright (C) 2013-2018 Azel azelpg@gmail.com
+Copyright (C) 2013-2019 Azel azelpg@gmail.com
 
 http://azsky2.html.xdomain.jp/linux/azpainter.html
 
