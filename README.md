@@ -6,11 +6,11 @@ http://azsky2.html.xdomain.jp/linux/azpainter.html
 Download 下载最新版: [The Latest Version](https://osdn.net/projects/azpainter/downloads/71051/azpainter-2.1.4.tar.xz/)
 **********************************************
 # README
-*2019-05-02, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.4.zip
+* 2019-05-02, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.4.zip
 
-*2018-10-06, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.3.zip
+* 2018-10-06, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.3.zip
 
-*2018-04-24, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.2.zip
+* 2018-04-24, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.2.zip
 
 There are two files in Zip: zh_CN & zh_CN.mtr  
 
