@@ -30,7 +30,7 @@ Translator 译者: SenlinOS (森林OS)
 
 简体中文翻译人员:
 
-[Xelloss & mike2718](https://github.com/mike2718/azpainter) : Termination to 1.0.7 (终止到1.0.7), 2014-2016
+[Xelloss & mike2718](https://github.com/muirmok) : Termination to 1.0.7 (终止到1.0.7), 2014-2016
 
 [SenlinOS (森林OS)](https://senlinos.com): Starting from 2.0.1 (开始于2.0.1), 2017-2019
 
