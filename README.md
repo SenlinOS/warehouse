@@ -3,10 +3,14 @@ Copyright (C) 2013-2019 Azel azelpg@gmail.com
 
 http://azsky2.html.xdomain.jp/linux/azpainter.html
 
-Download 下载最新版: [The Latest Version](https://osdn.net/projects/azpainter/downloads/71051/azpainter-2.1.4.tar.xz/)
+Download 下载最新版: [The Latest Version](https://osdn.net/projects/azpainter/downloads/71988/azpainter-2.1.5.tar.xz/)
 **********************************************
 # README
-* 2019-05-14, Update again zh_CN-Chinese-Translation-for-AzPainter-2.1.4.zip, [Update Notes](https://github.com/SenlinOS/databox/raw/master/Update-notes.jpg). 
+* 2019-11-30, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.5.zip
+
+* **2019-11-30, Delete old translations, Please use the latest software.**
+
+* 2019-05-14, Update again zh_CN-Chinese-Translation-for-AzPainter-2.1.4.zip
 
 * 2019-05-02, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.4.zip
 
@@ -14,7 +18,6 @@ Download 下载最新版: [The Latest Version](https://osdn.net/projects/azpaint
 
 * 2018-04-24, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.2.zip
 
-There are two files in Zip: zh_CN & zh_CN.mtr  
 
 zh_CN is a translation file.
 
