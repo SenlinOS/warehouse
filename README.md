@@ -6,7 +6,7 @@ http://azsky2.html.xdomain.jp/linux/azpainter.html
 Download 下载最新版: [The Latest Version](https://osdn.net/projects/azpainter/downloads/71988/azpainter-2.1.5.tar.xz/)
 **********************************************
 # README
-* 2019-11-30, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.5.zip
+* 2019-11-30, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.5
 
 * **2019-11-30, Delete old translations, Please use the latest software.**
 
