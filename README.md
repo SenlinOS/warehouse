@@ -1,5 +1,5 @@
 # AzPainter
-Copyright (C) 2013-2019 @[Azel](https://github.com/azelpg) azelpg@gmail.com
+Copyright (C) 2013-2019 [Azel](https://github.com/azelpg) <azelpg@gmail.com>
 
 http://azsky2.html.xdomain.jp/linux/azpainter.html
 
