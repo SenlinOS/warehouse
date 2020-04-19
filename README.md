@@ -1,6 +1,6 @@
 # AzPainter
 
-:author: Azel <azelpg@gmail.com>
+Copyright (C) 2013-2020 Azel
 
 https://github.com/azelpg/azpainter
 
