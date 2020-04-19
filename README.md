@@ -1,9 +1,9 @@
 # AzPainter
-Copyright (C) 2013-2019 [Azel](https://github.com/azelpg) < azelpg@gmail.com >
+:author: Azel <azelpg@gmail.com>
 
-http://azsky2.html.xdomain.jp/linux/azpainter.html
+https://github.com/azelpg/azpainter
 
-Download 下载最新版: [The Latest Version](https://osdn.net/projects/azpainter/downloads/71988/azpainter-2.1.5.tar.xz/)
+Download 下载最新版: [The Latest Version](https://github.com/azelpg/azpainter/releases)
 **********************************************
 # README
 * 2019-11-30, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.5
