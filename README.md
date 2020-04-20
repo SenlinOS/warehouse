@@ -9,7 +9,7 @@ Download 下载最新版: [The Latest Version](https://osdn.net/projects/azpaint
 **********************************************
 
 # README
-* **2019-04-20, Azpainter-2.1.6 translation remains unchanged.**
+* **2019-04-20, AzPainter-2.1.6 translation remains unchanged.**
 
 * 2019-11-30, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.5
 
@@ -38,7 +38,7 @@ Translator 译者: SenlinOS (森林OS)
 
 简体中文翻译人员:
 
-[Xelloss & mike2718](https://github.com/muirmok) : Termination to 1.0.7 (终止到1.0.7), 2014-2016
+[Xelloss & mike2718](https://github.com/mike2718): Termination to 1.0.7 (终止到1.0.7), 2014-2016
 
 [SenlinOS (森林OS)](https://senlinos.com): Starting from 2.0.1 (开始于2.0.1), 2017-2019
 
