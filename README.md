@@ -9,6 +9,8 @@ Download 下载最新版: [The Latest Version](https://osdn.net/projects/azpaint
 **********************************************
 
 # README
+* **2019-04-20, Azpainter-2.1.6 translation remains unchanged.**
+
 * 2019-11-30, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.5
 
 * **2019-11-30, Delete old translations, Please use the latest software.**
