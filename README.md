@@ -4,8 +4,10 @@ Copyright (C) 2013-2020 Azel
 
 https://github.com/azelpg/azpainter
 
-Download 下载最新版: [The Latest Version](https://github.com/azelpg/azpainter/releases)
+Download 下载最新版: [The Latest Version](https://osdn.net/projects/azpainter/downloads/72789/azpainter-2.1.6.tar.xz/)
+
 **********************************************
+
 # README
 * 2019-11-30, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.5
 
