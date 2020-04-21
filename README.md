@@ -4,7 +4,7 @@ Copyright (C) 2013-2020 Azel
 
 https://github.com/azelpg/azpainter
 
-Download 下载最新版: [The Latest Version](https://osdn.net/projects/azpainter/downloads/72789/azpainter-2.1.6.tar.xz/)
+Download 下载最新版: [The Latest Version](https://osdn.net/projects/azpainter/downloads/72797/azpainter-2.1.6.tar.xz/)
 
 **********************************************
 
