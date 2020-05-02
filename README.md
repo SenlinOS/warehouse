@@ -2,7 +2,7 @@
 
 Copyright (C) 2013-2020 Azel
 
-http://azsky2.html.xdomain.jp/index.html
+http://azsky2.html.xdomain.jp
 
 > Azel moved all official source downloads to own website (and removed their official repos from GitHub & OSDN)
 
