@@ -2,9 +2,11 @@
 
 Copyright (C) 2013-2020 Azel
 
-https://github.com/azelpg/azpainter
+http://azsky2.html.xdomain.jp/index.html
 
-Download 下载最新版: [The Latest Version](https://osdn.net/projects/azpainter/downloads/72797/azpainter-2.1.6.tar.xz/)
+> Azel moved all official source downloads to own website (and removed their official repos from GitHub & OSDN)
+
+**Please go to Azel's website to download the software.**
 
 **********************************************
 
