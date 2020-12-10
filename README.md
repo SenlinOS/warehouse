@@ -11,9 +11,9 @@ http://azsky2.html.xdomain.jp
 **********************************************
 
 # README
-* 2020-12-10, AzPainter-2.1.7 translation remains unchanged.
+* **2020-12-10, AzPainter-2.1.7 translation remains unchanged.**
 
-* **2020-04-20, AzPainter-2.1.6 translation remains unchanged.**
+* 2020-04-20, AzPainter-2.1.6 translation remains unchanged.
 
 * 2019-11-30, Up zh_CN-Chinese-Translation-for-AzPainter-2.1.5
 
